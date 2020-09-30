@@ -3,6 +3,3 @@ def square_array(array)
 
   end
 end
-
-
-a.each {|x| print x, " -- " }
